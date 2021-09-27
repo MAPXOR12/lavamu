@@ -1,11 +1,11 @@
 {
-    "token": "", 
+    "token": "ODYzNDA0ODA0NTQ1MzE0ODI3.YOmaYg.dZN-Z5lgu2fGSnHRnCV_7q5aBFg", 
     "prefix": "!",
     "ksoftapi": "",   
-    "ownerID": "491577179495333903",
-    "SpotifyID": "",
-    "SpotifySecret": "",
-    "mongourl": "",
+    "ownerID": "743887896481628190",
+    "SpotifyID": "f70640d3a9044314b375d2e3644619cd",
+    "SpotifySecret": "1ec59befd63d4cf195116749adc47c40",
+    "mongourl": "mongodb+srv://zalm:zalm12345+@cluster0.xqz5a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "embedColor": "#303236",
     "logs": "",
      "nodes": [
